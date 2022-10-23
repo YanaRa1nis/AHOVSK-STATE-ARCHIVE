@@ -1,0 +1,26 @@
+{
+  "mts:wrench": {
+    "criteria": {
+      "has_wrench": "2021-02-12 22:28:49 +0300"
+    },
+    "done": true
+  },
+  "cfm:root": {
+    "criteria": {
+      "tick": "2021-02-12 22:28:49 +0300"
+    },
+    "done": true
+  },
+  "cfm:install": {
+    "criteria": {
+      "tick": "2021-02-12 22:28:49 +0300"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "plains": "2021-02-12 22:28:49 +0300"
+    },
+    "done": false
+  }
+}
